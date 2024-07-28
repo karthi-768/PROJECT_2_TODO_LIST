@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(127, 201, 207);
+  margin-top: 50px;
+  border: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+input {
+  border: 20px;
+  border-color: black;
+  margin: 10px 10px;
+  padding: 10px;
+  height: 200px;
+  text-align: left;
+  border-radius: 20px;
+  size: 100px;
+  background-color: rgb(165, 162, 186);
+  font-size: bold;
+  place-content: center;
+}
+button {
+  background-color: gold;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+label {
+  width: 150px;
+}
+table {
+  margin: 20px;
+  padding-right: 100px;
+  margin-right: 130px;
+  border: 2px;
+}
+
+form div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.red {
+  padding: 10px;
+  margin: 100px;
+}
+img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.test {
+  color: yellow;
+}
